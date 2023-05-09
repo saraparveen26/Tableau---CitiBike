@@ -16,11 +16,24 @@ I have used the Jersey City data only for the full year 2022. The reason I did n
 *NOTE: I have not added the combined CSV file as its size is 169 MB which exceeds the GitHub's file size limit.*
 
 
-## Tableau Link
+## Tableau Public Link
 
 Following is the link on Tableau Public to access the visualizations:
 
 https://public.tableau.com/app/profile/sara.parveen/viz/CItiBike_16835150157000/Story-CitiBike?publish=yes
+
+
+## Key Insights
+
+Following are some key insights from the analysis performed for the year 2022 for Jersey City in the proceeding sections:
+
+- Classic bikes are the most popular ride types used equally higher among casual riders as well as member riders. Their usage fluctuates over the year but that coincides with the change in number of trips taken across different months of the year. Electric bikes are also gaining popularity but their usage is slightly lesser than the classic bikes. Docked bikes seem to have been phased out gradually.
+
+- The average trip durations are higher during the Summer and early Fall months. This correlates with the higher number of trips taken during those months. In the January 2022 data, there are three instances where average trip durations are outliers and they skew the data for the month of January by increasing its average trip duration. This has been analyzed by creating Boxplots and Scatter Bubble Plot to highlight the outlier values.
+
+- Riders seem to enjoy longer rides during weekends and this trend is consistent across all months of the year.
+
+- The average trip durations are higher in early morning hours and evening hours during the weekdays. This can imply that many riders use the Citi Bikes to commute to and from their work, however, that will need more data to confirm this claim. During the weekends, the average trip durations remain higher through out the day which might imply that riders use the bikes for pleasure rides over the weekends.
 
 
 ## Questions to Answer:
