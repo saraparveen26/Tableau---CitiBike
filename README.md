@@ -16,6 +16,13 @@ I have used the Jersey City data only for the full year 2022. The reason I did n
 *NOTE: I have not added the combined CSV file as its size is 169 MB which exceeds the GitHub's file size limit.*
 
 
+## Tableau Link
+
+Following is the link on Tableau Public to access the visualizations:
+
+https://public.tableau.com/app/profile/sara.parveen/viz/CItiBike_16835150157000/Story-CitiBike?publish=yes
+
+
 ## Questions to Answer:
 
 In this assignment, I aimed at aggregating the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. The phenomena tha I have chosen are:
