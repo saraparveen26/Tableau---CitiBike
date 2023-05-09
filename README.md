@@ -13,6 +13,8 @@ This Tableau dashboard is created with the purpose to establish a sophisticated 
 
 I have used the Jersey City data only for the full year 2022. The reason I did not use NYC data and could not analyze data over multiple year was because of Tableau limitations as the number of entries would have been higher than what is allowed on Tableau Public. I used Jupyter Notebook to concatonate the 12 data files for the year 2022 for Jersey City and stored the combined dataframe as a CSV file.
 
+*NOTE: I have not added the combined CSV file as its size is 169 MB which exceeds the GitHub's file size limit.*
+
 
 ## Questions to Answer:
 
