@@ -28,7 +28,7 @@ In this assignment, I aimed at aggregating the data found in the Citi Bike Trip 
 In the first step, I created multiple visualizations to answer the two questions stated above.
 
 
-*** Rides ***
+***Rides***
 
 The first step was to compute the total number of rides in 2022 for Jersey City which was 895,485.
 
@@ -53,7 +53,7 @@ The next visualization compares the total rides taken by all riders across diffe
 ![Ride Type by Month](Images/Image14.PNG)
 
 
-*** Average Trip Duration ***
+***Average Trip Duration***
 
 The first step was to compute the average trip duration for 2022 in Jersey City which was 17.54 minutes.
 
@@ -87,7 +87,7 @@ The next visualization creates a heatmap to show the average trip duration for d
 In the second step, I created two dashboards to answer the two questions.
 
 
-*** Dasshboard - Rides ***
+***Dashboard - Rides***
 
 The dashboard for rides compares Ride types and their traffic across different months. The dashboard also attempts to compare the different ride types used among members vs. casual riders.
 
@@ -105,7 +105,7 @@ Ride Traffic:
 ![Ride Type by Month](Images/Image3.PNG)
 
 
-*** Dasshboard - Average Trip Duration ***
+***Dashboard - Average Trip Duration***
 
 The dashboard for average trip duration compares the length of the trips across different months of the year, weekdays, days of the month and across different hours of the day.
 
